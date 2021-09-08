@@ -19,5 +19,5 @@ print(foo)
 
 def mean(mylist):
     print("Function start!")
-    the_mean = sum(mylst) / len(mylist)
+    the_mean = sum(mylist) / len(mylist)
     return the_mean
